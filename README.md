@@ -3,7 +3,7 @@
 </P>
 
 
-<h1 align="center">Hi 👋, I'm Oshadha Preveen Bhagya</h1>
+<h1 align="center">Hi  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Oshadha Preveen Bhagya</h1>
 <!-- <h3 align="center">A passionate full stac developer from Sri lanka</h3> -->
 <p align="center">
   <a href="https://github.com/PREVEENBHAGYA"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -18,19 +18,45 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ### My Topic
----
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ </p>
+ 
+<br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on **react native mobile app**
 
 - 🌱 I’m currently learning **Java, springboot, python,**
+
+- 👯 I’m looking to collaborate with Fullstack Web and Frontend visualization Developers.
 
 - 💬 Ask me about **react, css, Html, Java,**
 
 - 📫 How to reach me **preveenoshadha@gmail.com**
 
 - ⚡ Fun fact **call me as preveen**
+</td>
+<td width="50%" align="center">
 
----
-## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+   <img align="center" alt="Coding" width="450" src="https://camo.githubusercontent.com/c1dc133a3292d365b2838280e339e6179c5a2a3e672643c2b98ee207e204e77f/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f35343830353630366534313233346461323635373735663465653836333165662f343164346133356633376335616266312d66362f733132383078313932302f633836393935646465653238343064616266666639393939353336376135386564313338323638372e676966">
+
+  
+  </td>
+</tr>
+</table>
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ </p>
+ 
+<br>
+
+
+### <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
+<br>
 
 
 ### 📋 Programming languages
@@ -121,14 +147,6 @@
   <a href="https://www.docker.com/" target="_blank"> 
    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
   </a>   
-  
-  <a href="https://kubernetes.io/" target="_blank">
-    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white">
-  </a> 
-  
- <a href="https://bitbucket.org/" target="_blank"> 
-    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
-  </a>
 
  <a href="https://git-scm.com/" target="_blank"> 
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
@@ -160,13 +178,6 @@
    <a href="https://www.sqlite.org/" target="_blank"> 
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
   </a>   
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-    <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white">
-  </a> 
-  
- <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
-  </a>
 
  <a href="https://firebase.google.com/" target="_blank"> 
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white"/>
@@ -183,29 +194,15 @@
 
 ### 🎛️ Operating Systems
 
-<p align="left"> 
-  <a href="https://www.centos.org/" target="_blank"> 
-   <img alt="CentOS" src="https://img.shields.io/badge/CentOS-002260?logo=centos&logoColor=F0F0F0">
-  </a>   
-  
-  <a href="https://www.debian.org/" target="_blank">
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
-  </a> 
-  
+<p align="left">   
  <a href="https://www.kali.org/" target="_blank"> 
     <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white"/>
   </a>
-  
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </a>
-
- <a href="https://ubuntu.com/" target="_blank"> 
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-  </a>
-
  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Apple-%23000000?style=flat&logo=apple&logoColor=white"/>
   </a>
 </p>
 
@@ -221,14 +218,6 @@
   <a href="https://developer.android.com/studio" target="_blank">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
   </a> 
-  
- <a href="https://www.qt.io/" target="_blank"> 
-    <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?logo=Qt&logoColor=white"/>
-  </a>
-
- <a href="https://www.rstudio.com/" target="_blank"> 
-    <img alt="RStudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?logo=tailwind-css&logoColor=white"/>
-  </a>
 
  <a href="https://www.jetbrains.com/idea/" target="_blank"> 
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
@@ -265,14 +254,6 @@
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
 <a href="https://httpd.apache.org" target="_blank"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"></a>
 <a href="https://tomcat.apache.org" target="_blank"><img alt="Apache Tomcat" src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"></a>
-<a href="https://nginx.org" target="_blank"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"></a>
-<a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
-<a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
-<a href="https://kafka.apache.org" target="_blank"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka"></a>
-<a href="https://www.djangoproject.com" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
-<a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
-<a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
-<a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
 <a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
@@ -288,7 +269,11 @@
 
 
 
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ </p>
+ 
+<br>
 
 ### 🚦 Stats
 
@@ -308,29 +293,26 @@
 </tr>
 </table>
 
-<p >
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-</p>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
 
-
----
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
----
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
     <div align="center"  class="icons-social" style="margin-left: 10px;">
-          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
+          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/oshadha-preveen/">
   			  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" width="40" height="40" ></a>
-          <a style="margin-left: 10px;" target="_blank" href="https://github.com/zeeid">
-  		    <img src="" width="40" height="40"></a>
+          <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jundi-husni/">
+          <img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" width="40" height="45"/></a>
           <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/zeeidev/">
   			  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" width="40" height="40" ></a>
   		    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/zeeidev">
   			  <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
     </div>
 </p>
-
-
