@@ -316,7 +316,7 @@
   <a href="https://www.linkedin.com/in/oshadha-preveen/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-  <a href="https://www.linkedin.com/in/oshadha-preveen/" target="blank">
+  <a href="https://www.instagram.com/opreveen/" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="LinkedIn"height="35"width="35" />
   </a>
  <a href="https://www.facebook.com/oshada.preveen" target="blank">
