@@ -3,15 +3,17 @@
 </P>
 
 
+
 <h1 align="center">Hi  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Oshadha Preveen Bhagya</h1>
-<!-- <h3 align="center">A passionate full stac developer from Sri lanka</h3> -->
+
+
 <p align="center">
   <a href="https://github.com/PREVEENBHAGYA"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=preveenbhagya&label=Profile%20views&color=0e75b6&style=flat" alt="preveenbhagya" /> </p>
 
@@ -24,7 +26,7 @@
  
 <br>
 <table align="center">
-<tr border="none">
+<tr>
 <td width="50%" align="left">
   
 - 🔭 I’m currently working on **react native mobile app**
