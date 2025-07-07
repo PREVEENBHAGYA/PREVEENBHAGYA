@@ -21,7 +21,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### My Topic
+### 📖 My Topic
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  </p>
@@ -316,7 +316,7 @@
   <a href="https://www.linkedin.com/in/oshadha-preveen/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-  <a href="https://www.instagram.com/opreveen/" target="blank">
+  <a href="https://www.instagram.com/preveen_bhagya/" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="LinkedIn"height="35"width="35" />
   </a>
  <a href="https://www.facebook.com/oshada.preveen" target="blank">
